@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dani</h1>
-<h3 align="center">A a curious and enthusiastic developer from ~~Germany~~ ~~Australia~~ England</h3>
+<h3 align="center">A a curious and enthusiastic developer from <strike>Germany</strike> <strike>Australia</strike> England</h3>
 
 - 🌱 I’m currently learning **Java/Spring**
 
